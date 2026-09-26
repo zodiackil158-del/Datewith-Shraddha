@@ -1,0 +1,2 @@
+Sheet headers: Timestamp | Response | Date Type | Preferred Date | Preferred Time | Message | Page
+Replace Apps Script with google-apps-script.gs and redeploy. script.js already contains your Web App URL. Put your MP3 at assets/song.mp3.
